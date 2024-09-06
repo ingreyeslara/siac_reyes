@@ -2,7 +2,7 @@
   "name": "now-ui-kit-react",
   "version": "1.5.2",
   "private": true,
-  "homepage": "http://ingreyeslara.github.io/siac_reyes",
+  "homepage": "http://ingreyeslara.github.io/siac_reyes/build",
   "dependencies": {
     "gh-pages": "^6.1.1",
     "moment": "2.29.4",
